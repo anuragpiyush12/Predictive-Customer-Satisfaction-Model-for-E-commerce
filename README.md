@@ -57,22 +57,19 @@ You will need Python 3.8+ and the following libraries:
 
 The project is broken down into the following steps:
 
-1.  **Data Loading:** The dataset is loaded from `[e.g., olist_dataset.csv]`.
+1.  **Data Loading:** The dataset is loaded from `[olist_dataset.csv]`.
 2.  **Data Cleaning:** Handled missing values, removed duplicates, and corrected data types.
 3.  **Exploratory Data Analysis (EDA):** Visualized the data to understand distributions, find correlations between features, and identify patterns in customer behavior.
-4.  **Feature Engineering:** Created new features (e.g., `delivery_time`, `review_score`) to improve model accuracy.
-5.  **Model Building:** Trained and compared several machine learning models, including:
-    * [Model 1, e.g., Logistic Regression]
-    * [Model 2, e.g., Random Forest Classifier]
-    * [Model 3, e.g., XGBoost Classifier]
-6.  **Model Evaluation:** The models were evaluated using [**e.g., Accuracy, Precision, Recall, and F1-Score**] on a held-out test set.
+4.  **Feature Engineering:** Created new features ( `delivery_time`, `review_score`) to improve model accuracy.
+5.  **Model Building:** Trained and compared several machine learning models.
+6.  **Model Evaluation:** The models were evaluated using [**Accuracy, Precision, Recall, and F1-Score**] on a held-out test set.
 
 ---
 
 
 
 ### Key Findings
-* [**Finding 1:** "Delivery time was the most significant predictor of negative reviews."]
+* [**Finding :** "Delivery time was the most significant predictor of negative reviews."]
 
 
 ---
