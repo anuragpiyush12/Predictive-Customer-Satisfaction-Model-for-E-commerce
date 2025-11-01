@@ -8,13 +8,7 @@
 
 This project analyzes an e-commerce dataset to build a predictive model. The goal is to classify customer satisfaction (e.g., as positive or negative) based on features like order details, product information, shipping, and payment methods. This model can help businesses proactively address issues, improve service, and understand what matters most to their customers.
 
-### Problem Statement
-[**Briefly describe the problem. For example:** "E-commerce businesses receive thousands of orders, and customer feedback is crucial. Manually checking all feedback is impossible. The goal is to build a model that can predict customer satisfaction before or immediately after a transaction, allowing the business to identify unhappy customers and improve their experience."]
 
-### Key Files
-* `[Name of your notebook, e.g., M1.ipynb]`: The main Jupyter Notebook containing all steps from data loading to modeling.
-* `[Name of your dataset, e.g., olist_dataset.csv]`: The dataset used for this analysis.
-* `[Name of your model file, e.g., model.pkl]`: The final, saved machine learning model.
 
 ---
 
@@ -30,7 +24,6 @@ You will need Python 3.8+ and the following libraries:
 * Scikit-learn
 * Matplotlib
 * Seaborn
-* [Add any other libraries you used, like XGBoost, LightGBM, etc.]
 
 ### Installation
 
@@ -76,21 +69,11 @@ The project is broken down into the following steps:
 
 ---
 
-## 📊 Results
 
-The best-performing model was the [**Your Best Model, e.g., Random Forest Classifier**], which achieved the following results on the test data:
-
-| Metric | Score |
-| :--- | :--- |
-| **Accuracy** | [e.g., 92.5%] |
-| **Precision** | [e.g., 0.90] |
-| **Recall** | [e.g., 0.88] |
-| **F1-Score** | [e.g., 0.89] |
 
 ### Key Findings
-* [**Finding 1:** e.g., "Delivery time was the most significant predictor of negative reviews."]
-* [**Finding 2:** e.g., "Payment method had a surprisingly high correlation with satisfaction."]
-* [**Finding 3:** e.g., "Product category 'XYZ' consistently received the highest scores."]
+* [**Finding 1:** "Delivery time was the most significant predictor of negative reviews."]
+
 
 ---
 
